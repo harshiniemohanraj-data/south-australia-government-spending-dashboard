@@ -19,7 +19,7 @@ This dashboard helps identify government spending trends and sector performance,
 - Top 5 sector comparison using bar charts
 - Growth rate indicators with directional insights (↑ ↓)
 
-## skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning & Transformation  
 - Dashboard Design  
