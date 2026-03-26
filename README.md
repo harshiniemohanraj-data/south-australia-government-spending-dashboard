@@ -21,7 +21,7 @@ This project analyses government spending trends across key sectors in South Aus
 - Data Visualization & Dashboard Design
 
 ## 📷 Dashboard Preview
-![Dashboard](DASHBOARD PREVIEW.png)
+![Dashboard](DASHBOARD%20PREVIEW.png)
 
 ## 📁 Files
 - `SA_Government_Spending_Dashboard.xlsx` → Interactive dashboard
