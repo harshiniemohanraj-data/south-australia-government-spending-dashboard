@@ -3,11 +3,15 @@
 ## Project Overview
 This project analyses government spending trends across key sectors in South Australia between 2012 and 2016 using an interactive Excel dashboard.
 
+## Business Value
+
+This dashboard helps identify government spending trends and sector performance, enabling better policy evaluation and resource allocation decisions.
+
 ## Key Insights
-- Healthcare spending remained relatively stable over time
-- Primary education showed consistent growth (+17% overall)
-- Secondary education experienced a slight decline in recent years
-- Peak spending occurred in 2015–16
+- Healthcare spending remained relatively stable across all years  
+- Primary education showed consistent growth and was the top-performing sector (+17% overall)  
+- Secondary education experienced a slight decline over time  
+- Total spending peaked in 2015–16, indicating increased government investment  
 
 ## Features
 - Interactive slicer for year-wise filtering
@@ -15,10 +19,13 @@ This project analyses government spending trends across key sectors in South Aus
 - Top 5 sector comparison using bar charts
 - Growth rate indicators with directional insights (↑ ↓)
 
-## Tools Used
-- Microsoft Excel (Pivot Tables, Charts, Slicers)
-- Data Cleaning & Transformation
-- Data Visualization & Dashboard Design
+## skills Demonstrated
+
+- Data Cleaning & Transformation  
+- Dashboard Design  
+- Trend Analysis  
+- Growth Rate Calculation  
+- Data Interpretation  
 
 ## Dashboard Preview
 ![Dashboard](DASHBOARD%20PREVIEW.png)
